@@ -78,7 +78,7 @@ export const DeskPage = () => {
                 style={{fontSize: 30}}
                 type='danger'
               >
-                No hay tickets
+                No tickets!
               </Text>
             </Col>
           </Row>
